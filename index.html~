@@ -19,6 +19,9 @@
     2px 0 0 #000000,
     0 2px 0 #000000,
     0 -2px 0 #000000; /* Terminate with a semi-colon */
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 </style>
 </head>
