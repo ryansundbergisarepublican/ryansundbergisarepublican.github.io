@@ -22,11 +22,13 @@
     margin: auto;
     width: 50%;
     padding: 10px;
+    text-align: center;
 }
 </style>
 </head>
 <body>
 <body style="background-color:red;">
+<p>&nbsp;</p>
 <div class="OutlineText">Ryan Sundberg is a Republican</div>
 </body>
 </html>
